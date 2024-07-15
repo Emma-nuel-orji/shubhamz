@@ -1,0 +1,35 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.facebook.com	TRUE	/	FALSE	1999999999	sb	oI-SZvGjgVeqvRcuU30wwGdN
+.blogger.com	TRUE	/	FALSE	1999999999	NID	515=RdgupjWj7qz8ZL3xoevlX2QUI-Bq7KBBVoslYoQ1yK5L5PtmiiEFWaMKKthPXzqycJvZ4UwAt4vJNYvSJBNKp_DddBhzTI6tNOU4SL1ovP69eSG9Rqqb5VycfYnJFhXYTp2Vjnea2vk3LR_9aeR22byOTBIYEVqWcmO6fxLHKLE
+.youtube.com	TRUE	/	FALSE	1999999999	GPS	1
+.youtube.com	TRUE	/	FALSE	1999999999	YSC	aIEV-fg6W0M
+.youtube.com	TRUE	/	FALSE	1999999999	VISITOR_INFO1_LIVE	ATgmr_AlVAg
+.youtube.com	TRUE	/	FALSE	1999999999	VISITOR_PRIVACY_METADATA	CgJORxIEGgAgZQ%3D%3D
+www.youtube.com	TRUE	/	FALSE	1999999999	SameSite	none
+.facebook.com	TRUE	/	FALSE	1999999999	noscript	1
+.youtube.com	TRUE	/	FALSE	1999999999	NID	515=oS6AhSk7XAwe8vW2C9GGB_Jdz_XaQkoKaosUeLctNuMc13pfz3XSmKbl4M0oVobS3z1rh7NLmKEHpdzb-ANJ7X2pvWzmCLAEOXUjBqrO5MKx_g3nLD7SYtDP0PiOwGhFm4t6pRo2gBzzBtRabGGzNA5w9k1eKT_r8fcN0Q_xtKk
+fbsbx.com	TRUE	/	FALSE	1999999999	SameSite	deleted
+www.linkedin.com	TRUE	/	FALSE	1999999999	JSESSIONID	ajax:8162587687709294117
+.www.linkedin.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.linkedin.com	TRUE	/	FALSE	1999999999	lang	v=2&lang=en-us
+.linkedin.com	TRUE	/	FALSE	1999999999	lidc	b=VGST01:s=V:r=V:a=V:p=V:g=3300:u=1:x=1:i=1720893944:t=1720980344:v=2:sig=AQEBmoBu1CxSRsoC8ZiAQir3tzQIHeYW"
+.twitter.com	TRUE	/	FALSE	1999999999	guest_id_marketing	v1%3A172089424105623201
+.twitter.com	TRUE	/	FALSE	1999999999	guest_id_ads	v1%3A172089424105623201
+.twitter.com	TRUE	/	FALSE	1999999999	personalization_id	v1_xX9/CQ5JemOSbVVz6Gctqw=="
+.twitter.com	TRUE	/	FALSE	1999999999	guest_id	v1%3A172089424105623201
+.twitter.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.x.com	TRUE	/	FALSE	1999999999	guest_id_marketing	v1%3A172089424527994268
+.x.com	TRUE	/	FALSE	1999999999	guest_id_ads	v1%3A172089424527994268
+.x.com	TRUE	/	FALSE	1999999999	personalization_id	v1_LhiHf8exRDEZ88yB0Zztww=="
+.x.com	TRUE	/	FALSE	1999999999	guest_id	v1%3A172089424527994268
+.x.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+web.facebook.com	TRUE	/	FALSE	1999999999	SameSite	deleted
+web.facebook.com	TRUE	/	FALSE	1999999999	SameSite	None
+.facebook.com	TRUE	/	FALSE	1999999999	fr	0Yl8UgwXR41xjpxyy..Bmksj8..AAA.0.0.Bmksj8.AWW8QgzVNJg
+.linkedin.com	TRUE	/	FALSE	1999999999	bcookie	v=2&558df062-d510-4c38-8020-ebabe2964a1e"
+.www.linkedin.com	TRUE	/	FALSE	1999999999	bscookie	v=1&20240713190510473b1d11-4ad2-4024-8b2b-cf73193e5aaeAQGoedn_p355zpZAk5Afu7VLyTVBO2FU"
+www.linkedin.com	TRUE	/	FALSE	1999999999	SameSite	None
+.onesignal.com	TRUE	/	FALSE	1999999999	__cf_bm	6pNKOEy7vfzVyg2aoq.hdJNFJ_TL4_aouuT6pwv6wY4-1720901107-1.0.1.1-CubWpDqldBfusFEEDWfajoS302BcEq4rhN_QLDEaIQcCr8RCj6zic4hTCtfWfUTuBjkPFqnDhiY2Zw.F1DkBxg
+cdn.onesignal.com	TRUE	/	FALSE	1999999999	SameSite	None
+
